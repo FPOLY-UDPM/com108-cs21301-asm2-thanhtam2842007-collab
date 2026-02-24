@@ -1,7 +1,7 @@
 /******************************************************************************
- * Họ và tên: [ĐIỀN TÊN TẠI ĐÂY]
- * MSSV:      [ĐIỀN MSSV TẠI ĐÂY]
- * Lớp:       [ĐIỀN LỚP TẠI ĐÂY]
+ * Họ và tên: [Nguyễn Thành Tâm]
+ * MSSV:      [PS48578]
+ * Lớp:       [COM108 - CS21302]
  *****************************************************************************/
 
 // Tạo file asm2.c và hoàn thiện nội dung Assignment từ nội dung file asm1.c
@@ -64,7 +64,7 @@ int main() {
                 break;
             case 6:
                 // Gọi hàm tính lãi suất vay ngân hàng
-                printf("DA CHON CHUC NANG 6: TINH LAI SUAT VAY NGAN HANG VAY TRA GOP\n");
+                printf("DA CHON CHUC NANG 6: TINH LAI SUAT VAY NGAN HANG VAY TRA GO P\n");
                 break;
             case 7:
                 // Gọi hàm vay tiền mua xe
